@@ -7,4 +7,4 @@ namespace: loja-api-staging
 images:
 - name: ghcr.io/Doebber/loja-api
   newName: ghcr.io/Doebber/loja-api
-  newTag: 8ff62fb
+  newTag: 7fa005f

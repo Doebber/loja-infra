@@ -7,7 +7,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/Doebber/loja-infra
+    repoURL: https://github.com/doebber/loja-infra
     targetRevision: main
     path: apps/loja-api/overlays/staging
   destination:

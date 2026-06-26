@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
         - name: loja-api
-          image: ghcr.io/doebber/loja-api:latest
+          image: ghcr.io/doebber/loja-api
           ports:
             - containerPort: 8000
           readinessProbe:
